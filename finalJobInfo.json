@@ -1,0 +1,274 @@
+[{
+    "_id": "6744ba4f73eaadf590817bd6",
+    "title": "Provabok winter 2024 update",
+    "institution": {
+      "name": "Provabok update",
+      "logo": "",
+      "types": {
+        "status": "govt",
+        "industrial_categories": {
+          "name": "AI (Artificial Intelligence)",
+          "bangla_name": "কৃত্রিম বুদ্ধিমত্তা"
+        }
+      }
+    },
+    "working": {
+      "style": "remote",
+      "period": "full-time"
+    },
+    "total_vacancy": 15,
+    "contact": {
+      "number": {
+        "land_phone": "",
+        "mobile_phone": "01518190301",
+        "fax": ""
+      },
+      "online": {
+        "email": "probhabok.test@gmail.com",
+        "website": "",
+        "linked": "",
+        "x": "",
+        "facebook": "",
+        "youtube": ""
+      },
+      "address": "2/18 Khilgaon Gov't colony, 1219/c test",
+      "location": ""
+    },
+    "apply": {
+      "start_date": "2024-11-27",
+      "close_date": "2024-12-01",
+      "medium": "offline",
+      "link": "https://provabok.web.app.test",
+      "total_fee": 200
+    },
+    "sources": {
+      "link": "https://provabok.web.app.test",
+      "image": {
+        "display_url": "https://i.ibb.co/zJ8CHcd/Screenshot-2023-08-23-154547.png",
+        "delete_url": "https://ibb.co/8czG43k/70f16037816ee7bc441e937c55331625",
+        "img": "https://i.ibb.co/yShKBT2/Screenshot-2023-08-23-154547.png",
+        "medium": "https://i.ibb.co/zJ8CHcd/Screenshot-2023-08-23-154547.png",
+        "thumb": "https://i.ibb.co/8czG43k/Screenshot-2023-08-23-154547.png"
+      }
+    },
+    "details": "",
+    "description": "This is details for testing. testing",
+    "posts": [
+      {
+        "title": "Web development testing",
+        "name": "",
+        "vacancy": "10",
+        "summary": "Summary tesing testing",
+        "requirements": {
+          "gender": "both",
+          "qualifications": {
+            "graduations": "SSC test",
+            "experiences": "10",
+            "skills": "Javascript mern",
+            "certificates": ""
+          }
+        },
+        "responsibilities": {
+          "task": "",
+          "additional": ""
+        },
+        "working": {
+          "style": "",
+          "period": "10",
+          "address": "Dhaka, Bangladesh testing",
+          "location": ""
+        },
+        "purpose": "",
+        "benefits": "",
+        "apply": {
+          "start_date": "",
+          "close_date": "",
+          "medium": "",
+          "link": "",
+          "fee": "1000",
+          "guidelines": ""
+        },
+        "sources": {
+          "link": ""
+        },
+        "salary": "200000",
+        "details": "",
+        "description": "Description testing. testing"
+      },
+      {
+        "title": "Android development testing",
+        "name": "",
+        "vacancy": "15",
+        "summary": "Summary testing testing",
+        "requirements": {
+          "gender": "both",
+          "qualifications": {
+            "graduations": "HSC testing",
+            "experiences": "1",
+            "skills": "Kotlin KMP",
+            "certificates": ""
+          }
+        },
+        "responsibilities": {
+          "task": "",
+          "additional": ""
+        },
+        "working": {
+          "style": "",
+          "period": "10",
+          "address": "Dhaka testing",
+          "location": ""
+        },
+        "purpose": "",
+        "benefits": "",
+        "apply": {
+          "start_date": "",
+          "close_date": "",
+          "medium": "",
+          "link": "",
+          "fee": "500",
+          "guidelines": ""
+        },
+        "sources": {
+          "link": ""
+        },
+        "salary": "250000",
+        "details": "",
+        "description": "Details testing. testing"
+      }
+    ]
+  },
+  {
+    "_id": "674564ba9af140d4ecc9e97c",
+    "title": "Android App Development Winter 2024",
+    "institution": {
+      "name": "ABC company",
+      "logo": "",
+      "types": {
+        "status": "non-govt",
+        "industrial_categories": {
+          "name": "Agriculture",
+          "bangla_name": "কৃষি"
+        }
+      }
+    },
+    "working": {
+      "style": "hybrid",
+      "period": "part-time"
+    },
+    "total_vacancy": null,
+    "contact": {
+      "number": {
+        "land_phone": "",
+        "mobile_phone": "015000000000000000",
+        "fax": ""
+      },
+      "online": {
+        "email": "email@gmail.com",
+        "website": "",
+        "linked": "",
+        "x": "",
+        "facebook": "",
+        "youtube": ""
+      },
+      "address": "dhaka",
+      "location": ""
+    },
+    "apply": {
+      "start_date": "2024-12-22",
+      "close_date": "2024-12-29",
+      "medium": "offline",
+      "link": "https://www.google.com",
+      "total_fee": null
+    },
+    "sources": {
+      "link": "https://www.google.com"
+    },
+    "details": "",
+    "description": "this is description",
+    "posts": [
+      {
+        "title": "software engineer ",
+        "name": "",
+        "vacancy": "4",
+        "summary": "you have to ghorar dim",
+        "requirements": {
+          "gender": null,
+          "qualifications": {
+            "graduations": "at least HSC",
+            "experiences": "1 year experience in this field",
+            "skills": "kotlin ,java,KMP",
+            "certificates": ""
+          }
+        },
+        "responsibilities": {
+          "task": "",
+          "additional": ""
+        },
+        "working": {
+          "style": "",
+          "period": "8 hours",
+          "address": "dhaka",
+          "location": ""
+        },
+        "purpose": "",
+        "benefits": "",
+        "apply": {
+          "start_date": "",
+          "close_date": "",
+          "medium": "",
+          "link": "",
+          "fee": "500",
+          "guidelines": ""
+        },
+        "sources": {
+          "link": ""
+        },
+        "salary": "100000",
+        "details": "",
+        "description": "description"
+      },
+      {
+        "title": "",
+        "name": "",
+        "vacancy": "",
+        "summary": "",
+        "requirements": {
+          "gender": null,
+          "qualifications": {
+            "graduations": "",
+            "experiences": "",
+            "skills": "",
+            "certificates": ""
+          }
+        },
+        "responsibilities": {
+          "task": "",
+          "additional": ""
+        },
+        "working": {
+          "style": "",
+          "period": "",
+          "address": "",
+          "location": ""
+        },
+        "purpose": "",
+        "benefits": "",
+        "apply": {
+          "start_date": "",
+          "close_date": "",
+          "medium": "",
+          "link": "",
+          "fee": "",
+          "guidelines": ""
+        },
+        "sources": {
+          "link": ""
+        },
+        "salary": "",
+        "details": "",
+        "description": ""
+      }
+    ]
+  }
+]
